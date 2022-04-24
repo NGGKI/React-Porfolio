@@ -17,40 +17,32 @@ const About = () => {
             <img src={ME} alt="me" />
           </div>
         </div>
-      </div>
 
-      <div className="about__content">
-        <div className="about__cards">
-          <article className="about__card">
-            <FaAward className="about__icon" />
-            <h5>Experience</h5>
-            <small>6 months +</small>
-          </article>
+        <div className="about__content">
+          <div className="about__cards">
+
+            <article className="about__card">
+              <FaAward className="about__icon" />
+              <h5>Experience</h5>
+              <small>6 months +</small>
+            </article>
+
+            <article className="about__card">
+              <FiUser className="about__icon" />
+              <h5>Clients</h5>
+              <small>On to the first</small>
+            </article>
+
+            <article className="about__card">
+              <VscFolderLibrary className="about__icon" />
+              <h5>Projects</h5>
+              <small>3 completed +</small>
+            </article>
+          </div>
+          <p>I graduated in Hospitality and Management when I was 19 years old. I have many years of managing large operation, customers service and marketing/sales, want to know more about my past experience, feel free to find me on Linkedin. Moving on, I always like to be in front of the computer since I was young, so I decided to start learning about coding by taking BootCamp at UCI. Now, I am open to work, so let's talk!</p>
+          <a href="#contact" className="btn btn-primary">Let's Talk</a>
         </div>
       </div>
-
-      <div className="about__content">
-        <div className="about__cards">
-          <article className="about__card">
-            <FiUser className="about__icon" />
-            <h5>Clients</h5>
-            <small>Not Yet</small>
-          </article>
-        </div>
-      </div>
-
-      <div className="about__content">
-        <div className="about__cards">
-          <article className="about__card">
-            <VscFolderLibrary className="about__icon" />
-            <h5>Projects</h5>
-            <small>3+ completed</small>
-          </article>
-        </div>
-      </div>
-
-
-
     </section>);
 };
 

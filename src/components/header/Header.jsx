@@ -1,3 +1,4 @@
+/* eslint-disable react/style-prop-object */
 import React from "react";
 import "./header.css";
 import CTA from "./CTA";
@@ -15,7 +16,7 @@ const Header = () => {
         <HeaderSocials />
 
         <div className="me">
-          <img src={ME} alt="me" />
+          <img id="picture" src={ME} alt="me" />
         </div>
 
         <a href="#contact" className="scroll__down">
