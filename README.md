@@ -52,5 +52,5 @@ N/a
 
 For trouble shooting,please trouble yourself and drop me a message via :
 
-Github: https://github.com/NGGKI
-Email: kien.dv2012@gmail.com
+-Github: https://github.com/NGGKI
+-Email: kien.dv2012@gmail.com
