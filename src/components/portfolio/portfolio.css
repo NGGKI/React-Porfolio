@@ -58,9 +58,9 @@
 /* MEDIA QUERIES( SMALL DEVICES) */
 @media screen and (max-width:600px){
 .portfolio__container{
- grid-template-columns: 1fr;
+ grid-template-columns: 1fr; 
 } 
 #portfolio{
-  margin-top: 100vh;
+  margin-top: 175vh;
 }
 }

@@ -86,6 +86,7 @@ input, textarea{
 #contact{
     height: 140vh;
     margin-top: 130rem;
+    padding: 2rem;
 } 
 
 .container.contact__container{
