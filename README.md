@@ -6,7 +6,7 @@
 
 - In order to complete the application, I have used `https://react-icons.github.io/react-icons` and `https://www.emailjs.com/`.
 
-- 
+- I use `https://app.netlify.com/` to deploy the application. Here is my app `https://nghk-app.netlify.app//`
 
   ## Table of Contents
 
