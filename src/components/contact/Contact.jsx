@@ -39,8 +39,8 @@ const Contact = () => {
           </article>
           <article className="contact__option">
             <BsTelegram className="contact__option-icon" />
-            <h4>Message me</h4>
-            <h5>Telegram</h5>
+            <h4>Telegram</h4>
+            <h5>Message me on Telegram</h5>
             <a href="https://t.me/hoangk2012" target="_blank">Send a message</a>
           </article>
           <article className="contact__option">
