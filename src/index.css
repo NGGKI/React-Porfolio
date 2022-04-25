@@ -136,6 +136,10 @@ img{
   section{
     margin-top: 6rem;
   }
+
+  /* #contact{
+
+  } */
 }
 /* MEDIA QUERIES( SMALL DEVICES) */
 @media screen and (max-width:600px){

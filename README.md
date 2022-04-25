@@ -1,3 +1,9 @@
+https://www.youtube.com/watch?v=G-Cr00UYokU&t=7458s
+
+https://react-icons.github.io/react-icons
+
+https://www.emailjs.com/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
